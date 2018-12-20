@@ -1,1 +1,32 @@
 
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body, html{
+	height: 100%;
+}
+
+.homeFundo{
+	background-image: url("../../Images/HomePage/FundoHome2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	width: 100%;
+	text-align: center;	
+}
+
+.footer{
+	width: 100%;
+	height: 50px;
+	background-color: #404040;
+
+}
+.footer h3{
+	color: rgba(255, 255, 255, 0.38);
+	text-align: left;
+	line-height: 50px;
+	font-family: Open Sans;
+}
